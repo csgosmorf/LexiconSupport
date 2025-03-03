@@ -3,7 +3,7 @@
 Welcome to Lexicon, an app designed to help you expand your vocabulary efficiently.
 
 ## Support & Contact
-- For issues, bug reports, or suggestions, please email email@support-lexicon.com
+- For issues, bug reports, or suggestions, please email lexidevsup@gmail.com
 
 ## Troubleshooting
 - Ensure your app is up to date.
